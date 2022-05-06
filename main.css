@@ -311,6 +311,9 @@ header .gnb .gnb-item .gnb-item__contents > ul > li > ul > li a:hover {
     height: 60px;
     padding: 0 6px;
 }
+.visual .visual__inner .list_store li .link_store:hover {
+    text-decoration: underline;
+}
 .visual .visual__inner .list_store li .link_store {
     display: block;
     width: 178px;
@@ -500,11 +503,11 @@ header .gnb .gnb-item .gnb-item__contents > ul > li > ul > li a:hover {
 }
 .loan .cont__txt > h3 {
     color: #FFF;
-    font-weight: 600;
+    font-weight: 700;
 }
 .loan .cont__txt > p {
     color: #FFF;
-    font-weight: 200;
+    font-weight: 300;
     opacity: 60%;
 }
 .loan .cont__btn {
